@@ -23,3 +23,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitkadam&show_icons=true&locale=en" alt="arpitkadam" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitkadam&" alt="arpitkadam" /></p>
+
+<h3 align="left">Hobbies:</h3>
+<p align="left">
+    🚴 Biking Racing <br />
+    🏍️ Bike Cruising <br />
+    🚗 Car Driving <br />
+    🌍 Exploring <br />
+    🥾 Trekking <br />
+    📚 Reading Tech Blogs <br />
+</p>
