@@ -35,9 +35,12 @@
 
 - 🤝 **I’m looking for help with:** *Enhancing my knowledge of deploying machine learning models and cloud services.*
 
-- ⚡ **Fun fact:** *I love exploring and going on adventures!*
+- ⚡ **Fun fact:** *I think I am a Otaku*
 
-<h3 align="left">Recent Projects:</h3>
+- 📝 I regularly write articles on [Dev.to](https://dev.to/arpitkadam)
+
+
+<h2 align="left">📂Recent Projects:</h2>
 <ul>
     <li><a href="https://breast-cancer-prediction-using-different.onrender.com" target="_blank">Breast Cancer Prediction</a></li>
     <li><a href="https://car-price-prediction-using-machine.onrender.com" target="_blank">Car Price Prediction using Machine Learning</a></li>
@@ -47,7 +50,7 @@
     <li><a href="https://github.com/ArpitKadam/Facial-Recognition-with-Realtime-Database" target="_blank">Facial Recognition with Realtime Database</a></li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">🛠 Languages and Tools</h2>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" title="Python" width="50" height="50"/>
@@ -87,20 +90,19 @@
     </a>
 </p>
 
-
+<h2 align="left">🚀 GitHub Stats</h2>
 <a href="https://github.com/ArpitKadam"><img src="https://github-readme-stats.vercel.app/api?username=ArpitKadam&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=false"></a>
 
 <a href="https://github.com/ArpitKadam"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKadam&&langs_count=8&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515"></a>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitkadam&theme=dark&hide_border=true&background=#FFA500&ring=black&fire=black&currStreakLabel=black" alt="arpitkadam" /></p>
 
-
-<h3 align="left">Hobbies:</h3>
+<h2 align="left">⚽Hobbies:</h2>
 <p align="left">
     🚴 Biking Racing <br />
-    🏍️ Bike Cruising <br />
     🚗 Car Driving <br />
-    🌍 Exploring <br />
+    ⚽ Playing Football <br />
+    🍜 Watching Anime and reading Manga <br />
     🥾 Trekking <br />
     📚 Reading and Writing Tech Blogs <br />
 </p>
