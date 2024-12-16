@@ -14,7 +14,9 @@
 
 <p align="center">
   <a href="mailto:arpitkadam922@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="hhttps://www.linkedin.com/in/arpitkadam/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/arpitkadam/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   <a href="https://twitter.com/arpitkadam5" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://dev.to/arpitkadam" target="blank"><img align="center" src="https://img.shields.io/badge/Dev.to-0A0A0A?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/27898005/arpit-kadam" target="blank"><img align="center" src="https://img.shields.io/badge/StackOverflow-FE7A16?&style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
