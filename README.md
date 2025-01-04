@@ -9,7 +9,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitkadam" alt="arpitkadam" /></a> </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Arpit+Sachin+Kadam;AI+Developer;A+Machine+Learning+Enthusiast;A+Learner;Bike+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Arpit+Kadam;AI+Developer;A+Machine+Learning+Enthusiast;A+Learner;Bike+Enthusiast)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:arpitkadam922@gmail.com" target="blank">
