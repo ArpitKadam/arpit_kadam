@@ -5,41 +5,25 @@
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #151515; text-shadow: 2px 2px 5px rgba(0,0,0,0.1);"><strong>Hii....I'm Arpit 👋</strong></h2>
 <h2 align="center" style="font-family: 'Arial', sans-serif; color: #151515; text-shadow: 2px 2px 5px rgba(0,0,0,0.1);"><strong>🤖 AI/ML ENGINEERING STUDENT</strong></h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitkadam&label=Profile%20views&color=0e75b6&style=flat" alt="arpitkadam" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitkadam" alt="arpitkadam" /></a> </p>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Arpit+Kadam;AI+Developer;A+Machine+Learning+Enthusiast;A+Learner;Bike+Enthusiast)](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="mailto:arpitkadam922@gmail.com" target="blank">
-    <img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" style="transition: transform 0.3s;"/>
-  </a>
-  <a href="https://www.linkedin.com/in/arpitkadam/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white" style="transition: transform 0.3s;"/>
-  </a>
-  <a href="https://dagshub.com/ArpitKadam" target="blank">
-    <img align="center" src="https://img.shields.io/badge/DAGsHub-231F20?style=for-the-badge&logo=dagshub&logoColor=white" style="transition: transform 0.3s;"/>
-  </a>
-  <a href="https://twitter.com/arpitkadam5" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" style="transition: transform 0.3s;"/>
-  </a>
-  <a href="https://dev.to/arpitkadam" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Dev.to-0A0A0A?&style=for-the-badge&logo=dev.to&logoColor=white" style="transition: transform 0.3s;"/>
-  </a>
-  <a href="https://stackoverflow.com/users/27898005/arpit-kadam" target="blank">
-    <img align="center" src="https://img.shields.io/badge/StackOverflow-FE7A16?&style=for-the-badge&logo=stack-overflow&logoColor=white" style="transition: transform 0.3s;"/>
-  </a>
-  <a href="https://www.kaggle.com/arpitkadam" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" style="transition: transform 0.3s;"/>
-  </a>
-  <a href="https://www.instagram.com/arpit__kadam/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E1306C?&style=for-the-badge&logo=instagram&logoColor=white" style="transition: transform 0.3s;"/>
-  </a>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitkadam&label=Profile%20views&color=0e75b6&style=flat" alt="arpitkadam" /> </p>
 
-<h5 align="center" style="color: #FF6347;">⚠️ Info: I am currently exploring new technologies! ⚠️</h5>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ArpitKadam&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+## 🌐 Socials:
+[![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitkadam922@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitkadam/)
+[![DAGsHub](https://img.shields.io/badge/DAGsHub-231F20?style=for-the-badge&logo=dagshub&logoColor=white)](https://dagshub.com/ArpitKadam)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arpitkadam5)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?&style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/arpitkadam)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-FE7A16?&style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/27898005/arpit-kadam)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arpitkadam)
+[![Instagram](https://img.shields.io/badge/Instagram-E1306C?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arpit__kadam/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitkadam)
+
+## 😊 About Me
 <p align="justify" style="font-family: 'Arial', sans-serif; color: #333;">
   Hello👋, I am <a href="https://github.com/ArpitKadam">Arpit Sachin Kadam</a>, a 3rd-year student at Mumbai University, specializing in AI/ML. I am passionate about applying AI and ML technologies to solve real-world problems. I am continuously learning and improving my skills to stay updated with industry trends.
 </p>
@@ -52,75 +36,28 @@
 - ⚡ **Fun fact:** *I think I am an Otaku*
 - 📝 I regularly write articles on [Dev.to](https://dev.to/arpitkadam)
 
+# 💻 Tech Stack:
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![FastAPI](https://img.shields.io/badge/FastAPI-%2300C7B7.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  ![DVC](https://img.shields.io/badge/DVC-%235664FF.svg?style=for-the-badge&logo=dataversioncontrol&logoColor=white) 
+
+# ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h2 align="left" ">📂 Recent Projects:</h2>
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <ul>
+    <li><a href="https://github.com/ArpitKadam/JARVIS-AI-with-OpenAI.git" target="_blank">JARVIS-AI-with-OpenAI</a></li>
+    <li><a href="https://github.com/ArpitKadam/AI-Virtual-Projects.git" target="_blank">AI-Virtual-Projects</a></li>
     <li><a href="https://github.com/ArpitKadam/Network_Security.git" target="_blank">Network_Security</a></li>
     <li><a href="https://github.com/ArpitKadam/data-science-project-on-Wine-Quality.git" target="_blank">Data-Science-Project-on-Wine-Quality</a></li>
-    <li><a href="https://github.com/ArpitKadam/airflow-etl-pipeline.git" target="_blank">Airflow-ETL-Pipeline</a></li>
     <li><a href="https://github.com/ArpitKadam/Facial-Recognition-with-Realtime-Database" target="_blank">Facial Recognition with Realtime Database</a></li>
     <li><a href="https://breast-cancer-prediction-using-different.onrender.com" target="_blank">Breast Cancer Prediction</a></li>
-    <li><a href="https://stock-forecast-app-9zg7.onrender.com/" target="_blank">Stock Forecast App</a></li>
   </ul>
 </div>
 
-<h2 align="left">🛠 Languages and Tools</h2>
-<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <a href="https://www.mlops.org/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/MLOps-000000?style=for-the-badge&logo=python&logoColor=white" />
-    </a>
-    <a href="https://www.python.org/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </a>
-    <a href="https://www.docker.com/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    </a>
-    <a href="https://opencv.org/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-    </a>
-    <a href="https://aws.amazon.com/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-    </a>
-    <a href="https://www.postgresql.org/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-    </a>
-    <a href="https://www.mongodb.com/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-    </a>
-    <a href="https://scikit-learn.org/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-    </a>
-    <a href="https://streamlit.io/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-    </a>
-    <a href="https://www.tensorflow.org/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-    </a>
-    <a href="https://git-scm.com/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    </a>
-    <a href="https://github.com/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://spacy.io/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/NLP-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-    </a>
-    <a href="https://mlflow.org/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-    </a>
-    <a href="https://www.astronomer.io/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Astronomer-4F5B93?style=for-the-badge&logo=astronomer&logoColor=white" />
-    </a>
-</p>
-
-<h2 align="left">🚀 GitHub Stats</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitkadam&theme=dark" alt="GitHub Stats"></p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ArpitKadam&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArpitKadam&theme=cobalt2&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitKadam&theme=cobalt2&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="left">🚴 Hobbies:</h2>
 <p align="left">
@@ -135,16 +72,3 @@
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image" style="max-width: 100%; border-radius: 10px;"/>
 </div>
-
-<style>
-  /* Animation for fading in the image */
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-
-  /* Hover effect for badges */
-  img:hover {
-    transform: scale(1.1);
-  }
-</style>
