@@ -25,7 +25,7 @@
 
 ## 🌐 Connect With Me
 
-[![Personal Website](https://img.shields.io/badge/Website-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arpit-kadam.netlify.app/)
+[![Personal Website](https://img.shields.io/badge/Personal-4CAF50?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arpit-kadam.netlify.app/)
 [![Gmail](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpitkadam922@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitkadam/)
 [![DAGsHub](https://img.shields.io/badge/DAGsHub-231F20?style=for-the-badge&logo=dagshub&logoColor=white)](https://dagshub.com/ArpitKadam)
@@ -34,6 +34,7 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/arpitkadam)
 [![Instagram](https://img.shields.io/badge/Instagram-E1306C?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arpit__kadam/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpitkadam)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FB7A1E?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/arpitkadam)
 
 </div>
 
@@ -42,7 +43,7 @@
 <div style="flex: 1;">
 
 </div>
-<img align="right" alt="Coding" src="https://i.pinimg.com/originals/6b/00/39/6b0039ec6d675b764f9b9c013450fbcb.gif" width="300" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img align="right" alt="Coding" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGxtbDNqOXJtNGFrNmo2Y2ZkZnljNTJyaWt6YWw1eWJmODVmbXNrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif" width="300" height="350" style="border-radius: 30px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </div>
   
 Hello! I'm **Arpit Sachin Kadam**, a passionate third-year student at Mumbai University specializing in AI/ML. I love turning complex problems into elegant solutions using cutting-edge technologies. 
@@ -53,8 +54,11 @@ Hello! I'm **Arpit Sachin Kadam**, a passionate third-year student at Mumbai Uni
 - 💡 Interests: *Machine Learning, Deep Learning, Computer Vision, NLP*
 - ⚡ Fun fact: *I'm an Otaku who loves coding! 🍜*
 - 📝 Blog: *Regular writer on [Dev.to](https://dev.to/arpitkadam)*
-
-  
+- 🚀 Dream job: *AI-powered space explorer – who needs humans when you have AI, right?*
+- 💻 Coding languages: *I only speak Python and a little bit of 'solidity and caffeine language'*
+- 🧑‍🤝‍🧑 Looking to collaborate on: *AI models that can predict pizza toppings for every mood!*
+- 🤖 My AI: *Probably smarter than me, but still can't figure out how to debug the code.*
+- 📚 Book I'm reading: *"How to Train Your Robot" (spoiler: it’s mostly coffee-based instructions)* 
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -80,14 +84,47 @@ Hello! I'm **Arpit Sachin Kadam**, a passionate third-year student at Mumbai Uni
 </div>
 
 ## 🎯 Featured Projects
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; padding: 20px;">
+<div style="display: flex; gap: 20px; overflow-x: auto; padding: 20px;">
 
-[![JARVIS AI](https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=JARVIS-AI-with-OpenAI&theme=cobalt2)](https://github.com/ArpitKadam/JARVIS-AI-with-OpenAI)
-[![AI Virtual Projects](https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=AI-Virtual-Projects&theme=cobalt2)](https://github.com/ArpitKadam/AI-Virtual-Projects)
-[![Facial Recognition](https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Facial-Recognition-with-Realtime-Database&theme=cobalt2)](https://github.com/ArpitKadam/Facial-Recognition-with-Realtime-Database)
-[![Network Security](https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Network_Security&theme=cobalt2)](https://github.com/ArpitKadam/Network_Security)
-[![Wine Quality](https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=data-science-project-on-Wine-Quality&theme=cobalt2)](https://github.com/ArpitKadam/data-science-project-on-Wine-Quality)
-[![Insurance Fraud Detection](https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Insurance-Fraud-Detection&theme=cobalt2)](https://github.com/ArpitKadam/Insurance-Fraud-Detection)
+  <a href="https://github.com/ArpitKadam/JARVIS-AI-with-OpenAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=JARVIS-AI-with-OpenAI&theme=cobalt2" alt="JARVIS AI" />
+  </a>
+  <a href="https://github.com/ArpitKadam/AI-Virtual-Projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=AI-Virtual-Projects&theme=cobalt2" alt="AI Virtual Projects" />
+  </a>
+  <a href="https://github.com/ArpitKadam/Facial-Recognition-with-Realtime-Database">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Facial-Recognition-with-Realtime-Database&theme=cobalt2" alt="Facial Recognition" />
+  </a>
+  <a href="https://github.com/ArpitKadam/Network_Security">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Network_Security&theme=cobalt2" alt="Network Security" />
+  </a>
+  <a href="https://github.com/ArpitKadam/data-science-project-on-Wine-Quality">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=data-science-project-on-Wine-Quality&theme=cobalt2" alt="Wine Quality" />
+  </a>
+  <a href="https://github.com/ArpitKadam/Insurance-Fraud-Detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Insurance-Fraud-Detection&theme=cobalt2" alt="Insurance Fraud Detection" />
+  </a>
+  
+  <!-- New Projects -->
+  <a href="https://github.com/ArpitKadam/AWS-beginner-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=AWS-beginner-project&theme=cobalt2" alt="AWS Beginner Project" />
+  </a>
+  <a href="https://github.com/ArpitKadam/Remix-EtheriumIDE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Remix-EtheriumIDE&theme=cobalt2" alt="Remix-EtheriumIDE" />
+  </a>
+  <a href="https://github.com/ArpitKadam/text2text-generator-with-HuggingFace-Model">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=text2text-generator-with-HuggingFace-Model&theme=cobalt2" alt="Text2Text Generator" />
+  </a>
+  <a href="https://github.com/ArpitKadam/Breast-Cancer-Prediction-using-different-Machine-Learning-Algorithms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Breast-Cancer-Prediction-using-different-Machine-Learning-Algorithms&theme=cobalt2" alt="Breast Cancer Prediction" />
+  </a>
+  <a href="https://github.com/ArpitKadam/mlproject">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=mlproject&theme=cobalt2" alt="Student Exam Performance Indicator" />
+  </a>
+  <a href="https://github.com/ArpitKadam/Car-Price-Prediction-using-Machine-Learning">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ArpitKadam&repo=Car-Price-Prediction-using-Machine-Learning&theme=cobalt2" alt="Student Exam Performance Indicator" />
+  </a>
+
 </div>
 
 </div>
@@ -139,6 +176,11 @@ Hello! I'm **Arpit Sachin Kadam**, a passionate third-year student at Mumbai Uni
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
+
+## ☕ I Love Coffee!!!
+![GIF](https://media.giphy.com/media/GNBCVMv6XobnMUMYJG/giphy.gif)
+
+<a href="https://www.buymeacoffee.com/ArpitKadam" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <div align="center">
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Gradients.png" alt="Gradient Image" width="100%" style="max-width: 1200px; border-radius: 10px;">
