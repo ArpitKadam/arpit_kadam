@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=233CF7&center=true&vCenter=true&height=60&width=1000&lines=I+am+Arpit+Kadam;AI+Developer;A+Machine+Learning+Enthusiast;A+Learner;Bike+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=ffffff&center=true&vCenter=true&height=60&width=1000&lines=I+am+Arpit+Kadam;AI+Developer;A+Machine+Learning+Enthusiast;A+Learner;Bike+Enthusiast)](https://git.io/typing-svg)
 
 <div align="center" style="margin: 20px 0">
   <img src="https://komarev.com/ghpvc/?username=arpitkadam&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
